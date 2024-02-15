@@ -3,15 +3,16 @@
 
 
 <h3 align="left">About me:</h3>
-<p>Experienced Computer Systems Engineer with a strong focus on Back End Development using Node.js.
-Proficient in React.js for Front End development and skilled in configuring and managing web servers
-like Nginx. Known for adaptability and quick learning, with the capability to easily switch to other
-programming languages and technologies. Dedicated to delivering high-quality, scalable, and efficient
-software solutions.</p>
+<p>As a computer system engineer and full-stack developer, my area of expertise lies in creating scalable and reliable backend systems with the dynamic combination of TypeScript and Node.js, along with effectively developing frontend applications with Next.js and React.js
+
+I have also experience with microservices architecture, which enables me to design and implement complex systems that are reliable and adaptable. In addition, I've worked with Java before, therefore I can contribute successfully to projects that use this language.
+
+In addition, I have a great deal of deployment and scaling experience. I deploy apps scalable using Docker and Kubernetes, following best practices and guaranteeing smooth operation in production environments.</p>
 
 - 📫 How to reach me **ammar.ahmad6410@gmail.com**
 
-- 📄 My [Cv](https://github.com/ammar20175/ammar20175/files/13060624/Ammar_FullStack.pdf)
+- 📄 My [Cv][Ammar-Ahmad-CV.pdf](https://github.com/ammar20175/ammar20175/files/14293275/Ammar-Ahmad-CV.pdf)
+
 
 
 <h3 align="left">Connect with me:</h3>
