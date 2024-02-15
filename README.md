@@ -3,9 +3,7 @@
 
 
 <h3 align="left">About me:</h3>
-<p>As a computer system engineer and full-stack developer, my area of expertise lies in creating scalable and reliable backend systems with the dynamic combination of TypeScript and Node.js, along with effectively developing frontend applications with Next.js and React.js
-
-I have also experience with microservices architecture, which enables me to design and implement complex systems that are reliable and adaptable. In addition, I've worked with Java before, therefore I can contribute successfully to projects that use this language.
+<p>As a computer system engineer and full-stack developer, my area of expertise lies in creating scalable and reliable backend systems with the dynamic combination of TypeScript and Node.js, along with effectively developing frontend applications with Next.js and React.js.I have also experience with microservices architecture, which enables me to design and implement complex systems that are reliable and adaptable. In addition, I've worked with Java before, therefore I can contribute successfully to projects that use this language.
 
 In addition, I have a great deal of deployment and scaling experience. I deploy apps scalable using Docker and Kubernetes, following best practices and guaranteeing smooth operation in production environments.</p>
 
