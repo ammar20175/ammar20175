@@ -9,7 +9,7 @@ In addition, I have a great deal of deployment and scaling experience. I deploy 
 
 - 📫 How to reach me **ammar.ahmad6410@gmail.com**
 
-- 📄 My [Cv][Ammar-Ahmad-CV.pdf](https://github.com/ammar20175/ammar20175/files/14293275/Ammar-Ahmad-CV.pdf)
+- 📄 My [Cv](https://github.com/ammar20175/ammar20175/files/14293275/Ammar-Ahmad-CV.pdf)
 
 
 
